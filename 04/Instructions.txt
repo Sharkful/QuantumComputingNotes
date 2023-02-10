@@ -1,6 +1,6 @@
 If you just want to view the notebook go to this link:
 
-https://nbviewer.org/github/Sharkful/QuantumComputingNotes/blob/main/Code/04/JuliaQuantum_04.ipynb
+https://nbviewer.org/github/Sharkful/QuantumComputingNotes/blob/main/04/JuliaQuantum_04.ipynb
 
 If you want to run the notebook yourself, the first step is to download Julia! (It's great, trust me)
 Go to this link to get Version 1.8.5:
