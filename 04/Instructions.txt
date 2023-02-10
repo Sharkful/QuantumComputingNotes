@@ -1,0 +1,20 @@
+If you just want to view the notebook go to this link:
+
+https://nbviewer.org/github/Sharkful/QuantumComputingNotes/blob/main/Code/04/JuliaQuantum_04.ipynb
+
+If you want to run the notebook yourself, the first step is to download Julia! (It's great, trust me)
+Go to this link to get Version 1.8.5:
+https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.5-win64.exe
+
+The preferred method of working with the notebook is to use VSCode!
+1. Install the Jupyter extension in VSCode
+2. Install the Julia extension in VSCode
+3. Open the notebook file and run!
+
+You can also have julia install it's own jupyter and launch a notebook in your browser using the script "browsernotebook.jl"
+Type:
+
+julia browsernotebook.jl
+
+And it will install the notebook tools, and ask if it can install the necessary jupyter tools to run the notebook. 
+After a bit, it will launch in your browser.
